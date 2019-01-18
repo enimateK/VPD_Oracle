@@ -1,3 +1,3 @@
 # VPD_Oracle
 
-Projet Sécurité des systèmes d'information partie BDD
+Projet scolaire "Sécurité des systèmes d'information" partie BDD - M2 MIAGE - 2019
